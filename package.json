@@ -8,7 +8,7 @@
   "name": "matchadb",
   "version": "1.0.0-beta",
   "description": "MatchaDB is a groundbreaking, ultra-fast, and minimalistic database framework for Node.js and TypeScript.",
-  "main": "./dist/main.js",
+  "main": "./dist/src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
